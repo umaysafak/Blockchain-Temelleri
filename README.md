@@ -7,7 +7,7 @@
 [4-Kriptografi] <br>
 [5-Konsensus Algoritmaları] <br>
 [6-Hash Fonksiyonu] <br>
-[7-Madencilk] <br>]
+[7-Madencilk] <br>
 [8-Token] <br>
 [9-Dağıtılmış Defter] <br>
 [10-Gaz ve Gaz Ücretleri] <br>
