@@ -2,20 +2,20 @@
 <br />
 
 1-Merkezi Olmayan <br>
-2-Blokzincir
-3-İzinsiz ve İzinli Blokzincirler
-4-Kriptografi
-5-Konsensus Algoritmaları
-6-Hash Fonksiyonu
-7-Madencilk
-8-Token
-9-Dağıtılmış Defter
-10-Gaz ve Gaz Ücretleri
-11-Akıllı Sözleşme
-12-Özel ve Genel Anahtarlar
-13-Dijital İmza
-14-Hard Fork ve Soft Fork
-15-ICO
-16-Çift Harcama
-17-Akıllı Özellik
-18-Uyumluluk
+2-Blokzincir <br>
+3-İzinsiz ve İzinli Blokzincirler <br>
+4-Kriptografi <br>
+5-Konsensus Algoritmaları <br>
+6-Hash Fonksiyonu <br>
+7-Madencilk <br>
+8-Token <br>
+9-Dağıtılmış Defter <br>
+10-Gaz ve Gaz Ücretleri <br>
+11-Akıllı Sözleşme <br>
+12-Özel ve Genel Anahtarlar <br>
+13-Dijital İmza <br>
+14-Hard Fork ve Soft Fork <br>
+15-ICO <br>
+16-Çift Harcama <br>
+17-Akıllı Özellik <br>
+18-Uyumluluk <br>
