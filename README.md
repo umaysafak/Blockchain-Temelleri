@@ -9,7 +9,7 @@
 [6-Hash Fonksiyonu] <br>
 [7-Madencilk] <br>]
 [8-Token] <br>
-][9-Dağıtılmış Defter] <br>
+[9-Dağıtılmış Defter] <br>
 [10-Gaz ve Gaz Ücretleri] <br>
 [11-Akıllı Sözleşme] <br>
 [12-Özel ve Genel Anahtarlar] <br>
