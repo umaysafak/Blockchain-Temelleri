@@ -14,7 +14,8 @@ Konsensus mekanizmaları, blokzincir teknolojisi ile çalışan ve merkezi olmay
 
 -Ağ Güvenliği: Konsensus mekanizmaları, ağın güvenliğini sağlamak için kullanılır. Saldırı girişimlerine karşı dirençli olmalı ve ağdaki tüm katılımcıların güvenli bir şekilde işlem yapmasını sağlamalıdır.
 
-[Uploading Consensus_Algorithms-5.png.webp…]()
+![konsensus-5](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/d84cbd55-b5a3-4ce5-8401-9271bb523b7b)
+
 
 ###   Bazı popüler konsensus algoritmaları şunlardır:
   
