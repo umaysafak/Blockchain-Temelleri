@@ -10,12 +10,12 @@ Merkezi Olmayan (Decentralized) terimi, bir sistem veya ağın merkezi bir otori
    -Konsensüs ve Anlaşma: Merkezi olmayan sistemlerde, düğümler veya katılımcılar arasında konsensüs ve anlaşma mekanizmaları kullanılır. Bu mekanizmalar, katılımcıların birlikte çalışmasını, işlemlerin doğrulanmasını ve blokzincirdeki bir değişikliğe karar verilmesini sağlar. Konsensüs algoritmaları, düğümler arasında fikir birliği sağlar ve merkezi bir otoriteye güven ihtiyacını ortadan kaldırır.
 
    -Şeffaflık ve Güvenilirlik: Merkezi olmayan sistemlerde, işlemler ve veriler genellikle şeffaf ve herkes tarafından görülebilir olarak tutulur. Bu, tüm katılımcıların sistemdeki işlemleri denetleyebilmesini, doğrulayabilmesini ve güvenebilmesini sağlar. Aynı zamanda veri manipülasyonunu, hileleri ve yanlış bilgileri tespit etmek daha kolaydır.
+   
+   ![decentralized-1](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/5c2e2d3e-2cf7-4422-9f45-259a04995dd6)
 
    -Dirençlilik ve İyileştirilebilirlik: Merkezi olmayan sistemler, tek bir merkezi noktanın başarısız olması veya saldırıya uğraması durumunda bile çalışmaya devam edebilir. Sistem, birçok düğümün katkısıyla güçlendirilir ve dağıtılmış yapıya dayanır. Aynı zamanda merkezi olmayan sistemler, değişiklikleri ve iyileştirmeleri kolayca uygulayabilmek için topluluk tabanlıdır.
 
    -Özgürlük ve Özerklik: Merkezi olmayan sistemler, katılımcılara daha fazla özgürlük ve özerklik sağlar. Her katılımcı, kendi varlıklarını kontrol edebilir, işlemlerini gerçekleştirebilir ve kararlarını alabilir. Bu sayede bireylerin ve organizasyonların merkezi bir otoritenin yönlendirmesine veya iznine bağımlı olmadan kendi hedeflerini gerçekleştirmesi mümkün olur.
-   
-   ![decentralized-1](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/5c2e2d3e-2cf7-4422-9f45-259a04995dd6)
 
    -Dirençli ve İyileştirilebilir: Merkezi olmayan sistemler, tek bir merkezi noktanın hedef alınmasının zor olduğu ve sistemdeki hataların veya saldırıların yayılma riskinin düşük olduğu dirençli bir yapı sunar. Ayrıca, merkezi olmayan sistemlerde değişiklikler ve geliştirmeler, topluluk tarafından kolektif olarak yapılabilir ve daha hızlı iyileştirmeler sağlanabilir.
 
