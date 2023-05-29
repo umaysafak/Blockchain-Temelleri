@@ -1,0 +1,1 @@
+# Hash Fonksiyonu (Hash Function)
