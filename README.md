@@ -1,6 +1,6 @@
 # Blockchain-Temelleri
 
-[1-Merkezi Olmayan (Decentralized)]
+[1-Merkezi Olmayan (Decentralized)](https://github.com/umaysafak/Blockchain-Temelleri/blob/main/Merkezi%20Olmayan%20(Decentralized)-1.md)
 [2-Blokzincir (Blockchain)]
 [3-İzinsiz (Permissionless) ve İzinli (Permissioned) Blokzincirler]
 [4-Kriptografi (Cryptography)]
