@@ -1,7 +1,5 @@
 ### Blockchain-Temelleri
-<br />
-
-[1-Merkezi Olmayan](Merkezi Olmayan (Decentralized).md) <br>
+[1-Merkezi Olmayan](Merkezi Olmayan (Decentralized).md)
 [2-Blokzincir] <br>
 [3-İzinsiz ve İzinli Blokzincirler] <br>
 [4-Kriptografi] <br>
