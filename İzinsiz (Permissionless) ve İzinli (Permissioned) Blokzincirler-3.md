@@ -2,7 +2,7 @@
 
 İzinsiz (Permissionless) ve İzinli (Permissioned) blokzincirler, blokzincir teknolojisinin farklı kullanım senaryolarına yönelik iki farklı yaklaşımı ifade eder.
 
-## -İzinsiz (Permissionless) Blokzincir:
+## İzinsiz (Permissionless) Blokzincir:
 	
 ### İzinsiz blokzincirler, herhangi bir katılımcının ağa katılabilmesine ve işlem yapabilmesine izin veren bir yapıya sahiptir. Bu tür blokzincirlerde herhangi bir merkezi otorite yoktur ve katılımcılar arasında doğrudan etkileşim sağlanır. En iyi örneği Bitcoin'dir. İzinsiz blokzincirlerin temel özellikleri şunlardır:
 
@@ -14,7 +14,7 @@
 
 ![Permissionless and Permissioned Blockchains-3](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/45f420cf-20a9-492c-9616-409ed5ff7f91)
 
-## -İzinli (Permissioned) Blokzincir:
+## İzinli (Permissioned) Blokzincir:
 
 ### İzinli blokzincirler, katılımcıların önceden belirlenmiş bir yetkilendirme sürecinden geçerek ağa katılabildiği ve işlem yapabildiği bir yapıya sahiptir. Bu tür blokzincirler, belirli bir ağın veya organizasyonun özel kullanımı için tasarlanmıştır. İzinli blokzincirlerin temel özellikleri şunlardır:
 
