@@ -1,0 +1,1 @@
+# Dağıtılmış Defter (Distributed Ledger)
