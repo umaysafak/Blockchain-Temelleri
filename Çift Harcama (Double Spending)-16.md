@@ -12,7 +12,7 @@ Double Spending'in önlenmesi, güvenli ve güvenilir dijital para transferlerin
 
 -Blokzincir Teknolojisi ve Konsensus Mekanizmaları: Kripto para birimlerinde, çift harcamaları önlemek için blokzincir teknolojisi ve konsensus mekanizmaları kullanılır. Blokzincirde, her bir işlem bloğu, önceki bloğun hash değeri ve işlem verileriyle birlikte içerir. Bu sayede, geçmiş işlemler zincirleme bir şekilde kaydedilir ve değiştirilmesi zorlaşır.
 
-Konsensus mekanizmaları, blokzincir ağında yapılan işlemlerin onaylanması ve blokların eklenmesi için kullanılır. Kripto para birimlerinde kullanılan Proof of Work (PoW) veya Proof of Stake (PoS) gibi konsensus algoritmaları, ağdaki madencilerin yeni bloklar oluşturmasını ve işlemleri onaylamasını gerektirir. Bu süreçte, çift harcamaların tespit edilmesi ve blokzincire dahil edilmemesi sağlanır.
+-Konsensus mekanizmaları, blokzincir ağında yapılan işlemlerin onaylanması ve blokların eklenmesi için kullanılır. Kripto para birimlerinde kullanılan Proof of Work (PoW) veya Proof of Stake (PoS) gibi konsensus algoritmaları, ağdaki madencilerin yeni bloklar oluşturmasını ve işlemleri onaylamasını gerektirir. Bu süreçte, çift harcamaların tespit edilmesi ve blokzincire dahil edilmemesi sağlanır.
 
 -İşlem Onayları ve Bekleme Süresi: Bazı durumlarda, işlemlerin onaylanması için bir bekleme süresi gereklidir. Bu süre içinde, işlemlerin çift harcamaya yol açması durumunda, ağdaki diğer katılımcılar tarafından tespit edilir ve reddedilir. Bu şekilde, bir işlem tamamen onaylanmadan önce, çift harcama girişimleri engellenmiş olur.
 
