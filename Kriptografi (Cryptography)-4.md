@@ -4,7 +4,7 @@ Kriptografi (Cryptography), iletişimin güvenliğini sağlamak için matematiks
 
 Kriptografinin temel amacı, bilgiyi gizlemek veya güvence altına almak için şifreleme ve deşifreleme işlemlerini kullanmaktır. Şifreleme işlemi, açık metni (plaintext) şifreli metne (ciphertext) dönüştürürken, deşifreleme işlemi şifreli metni tekrar açık metne çevirir. Bu işlemler, kriptografik algoritmalar tarafından gerçekleştirilir.
 
-## -Kriptografinin ana hedefleri şunlardır:
+## Kriptografinin ana hedefleri şunlardır:
 
 -Gizlilik (Confidentiality): Kriptografi, bilginin sadece yetkili kişiler tarafından anlaşılabilir olmasını sağlar. Bilginin şifrelenmesi, yetkisiz kişilerin bilgiye erişmesini engeller ve gizliliği sağlar.
 
@@ -16,7 +16,7 @@ Kriptografinin temel amacı, bilgiyi gizlemek veya güvence altına almak için 
 
 ![Cryptography-4](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/6825e3cd-462a-4a79-a00b-674a6ca3074e)
 
-## -Kriptografinin yaygın kullanım alanları şunlardır:
+## Kriptografinin yaygın kullanım alanları şunlardır:
   
 -İnternet güvenliği: Kriptografi, web tarayıcıları arasındaki iletişimi güvenli hale getirmek için SSL/TLS protokollerini kullanır. Bu protokoller, verilerin şifrelenmesini ve kimlik doğrulama süreçlerini sağlar.
 
