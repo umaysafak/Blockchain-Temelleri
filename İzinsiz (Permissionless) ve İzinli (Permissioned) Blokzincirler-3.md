@@ -12,6 +12,8 @@
 
 -Merkezi Olmayanlık: İzinsiz blokzincirlerde herhangi bir merkezi otorite veya kontrol yoktur. Katılımcılar arasında eşit haklara sahiptirler ve işlemler doğrulama ve blok oluşturma süreciyle dağıtılmış olarak gerçekleştirilir.
 
+![Permissionless and Permissioned Blockchains-3](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/45f420cf-20a9-492c-9616-409ed5ff7f91)
+
 ## -İzinli (Permissioned) Blokzincir:
 
 ### İzinli blokzincirler, katılımcıların önceden belirlenmiş bir yetkilendirme sürecinden geçerek ağa katılabildiği ve işlem yapabildiği bir yapıya sahiptir. Bu tür blokzincirler, belirli bir ağın veya organizasyonun özel kullanımı için tasarlanmıştır. İzinli blokzincirlerin temel özellikleri şunlardır:
