@@ -8,9 +8,9 @@ Akıllı sözleşmeler, blokzincir ağında işlem yapabilen, verileri saklayabi
   
 -Özdeşlik: Akıllı sözleşmeler, geleneksel sözleşmelere benzer şekilde iki veya daha fazla taraf arasında bir anlaşma sağlar. Ancak, akıllı sözleşmeler, kodlanmış bir dijital formda olduğundan daha kesin ve öngörülebilir olabilir.
 
--Programlanabilirlik: Akıllı sözleşmeler, belirli koşulların gerçekleştiği durumlarda belirli eylemleri gerçekleştirebilen programlanabilir işlevlere sahiptir. Bu, ödeme yapma, varlık transferi, veri saklama, hesap yönetimi gibi işlemleri otomatikleştirebilir.
-
 ![smartcontract-11](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/a3ca0d32-b329-46a5-bd43-e6ea7db4fa4d)
+
+-Programlanabilirlik: Akıllı sözleşmeler, belirli koşulların gerçekleştiği durumlarda belirli eylemleri gerçekleştirebilen programlanabilir işlevlere sahiptir. Bu, ödeme yapma, varlık transferi, veri saklama, hesap yönetimi gibi işlemleri otomatikleştirebilir.
 
 -Güvenlik: Akıllı sözleşmeler, blokzincir teknolojisiyle çalıştığı için yüksek düzeyde güvenliktir. Sözleşmelerin kodu şeffaf bir şekilde erişilebilir ve doğrulanabilir olduğundan, manipülasyon riski azalır.
 
