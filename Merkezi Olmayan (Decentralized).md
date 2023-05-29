@@ -1,5 +1,5 @@
 
-                                            Merkezi Olmayan (Decentralized)
+                                         # Merkezi Olmayan (Decentralized)
     
 Merkezi Olmayan (Decentralized) terimi, bir sistem veya ağın merkezi bir otoriteye veya kontrol noktasına bağlı olmadan çalışabilme yeteneğini ifade eder. Bu, güç, veri saklama, karar alma süreçleri ve kontrolün birçok düğüm veya katılımcı arasında dağıtıldığı anlamına gelir. Merkezi olmayan sistemler, merkezi bir yetkili veya aracı olmadan işlem yapma, veri depolama ve kararlar alma konusunda katılımcılara daha fazla güven, özgürlük ve kontrol sağlar.  
 
