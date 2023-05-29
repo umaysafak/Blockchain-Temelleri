@@ -2,7 +2,7 @@
 
 Hash fonksiyonu (Hash function), belirli bir girdi (input) değerini alıp, sabit uzunlukta bir çıktı (output) değeri üreten matematiksel bir fonksiyondur. Hash fonksiyonları, verileri birer benzersiz "hash" değeriyle temsil eder ve birçok farklı uygulama alanında kullanılır.
 
-###   -Hash fonksiyonlarının ayrıntılı özellikleri şunlardır:
+###   Hash fonksiyonlarının ayrıntılı özellikleri şunlardır:
   
 -Sabit Çıktı Boyutu: Hash fonksiyonları, herhangi bir boyuttaki girdileri (metinler, dosyalar, veriler vb.) sabit bir uzunlukta (tipik olarak birkaç ondalık veya on altısal karakter) bir çıktıya dönüştürür. Bu, çıktının girdi boyutundan bağımsız olarak her zaman aynı uzunlukta olacağı anlamına gelir.
 
