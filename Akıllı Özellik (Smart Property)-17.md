@@ -1,0 +1,1 @@
+# Akıllı Özellik (Smart Property)
