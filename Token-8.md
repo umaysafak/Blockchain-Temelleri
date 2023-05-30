@@ -8,7 +8,7 @@ Blockchain'de "token", genel olarak dijital varlıkları temsil eden bir terimdi
 
 -Utilite (Fayda) Tokenları: Utilite tokenları, belirli bir blokzincir platformunun veya projenin hizmetlerine erişimi temsil eder. Bu tür tokenlar, kullanıcıların platformda özel hizmetler, ürünler veya fonksiyonlar satın almasını sağlar. Örneğin, Ethereum ağı üzerinde çalışan bir projenin utilite tokenları, projenin belirli özelliklerini kullanmak için kullanılabilir.
 
-![Token-8](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/9b11b5cb-0b4e-4715-9266-f9166f497434)
+![Token-8](https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/d94a9c40-3222-4a22-adbc-f828ffdb49df)
 
 -Security (Güvenlik) Tokenları: Security tokenları, geleneksel finansal varlıkları (hisse senetleri, tahviller, gayrimenkul gibi) temsil eden tokenlardır. Bu tür tokenlar, menkul kıymetlerin blokzincir üzerinde temsilini sağlar. Security tokenları, yatırımcılara sahiplik veya gelir paylaşımı gibi geleneksel finansal haklar sunabilir.
 
