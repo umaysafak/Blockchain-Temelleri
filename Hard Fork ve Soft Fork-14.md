@@ -1,6 +1,7 @@
 # Hard Fork ve Soft Fork
 
 Blockchain'de "fork" terimi, blokzincir ağının bir noktada iki veya daha fazla dalga ayrılması anlamına gelir. Fork, blokzincir protokolünde değişiklik yapmak veya blokzincirdeki mevcut bir versiyonu çoğaltmak için kullanılır. Fork işlemi, blokzincirdeki bir yazılım veya protokol değişikliği nedeniyle ortaya çıkabilir veya blokzincir topluluğunun farklı görüşleri veya hedefleri nedeniyle ortaya çıkabilir.
+
 Hard Fork ve Soft Fork, blokzincir ağlarında gerçekleşen güncellemeler veya değişikliklerdir. Her ikisi de mevcut blokzincirin bölünmesine ve yeni bir versiyonun oluşturulmasına neden olabilir. Ancak, Hard Fork ve Soft Fork arasında bazı temel farklılıklar vardır.
 İşte Hard Fork ve Soft Fork'un ayrıntılı açıklamaları:
 
