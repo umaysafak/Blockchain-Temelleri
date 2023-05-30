@@ -6,7 +6,7 @@ Gas ücreti ise, bir işlemi gerçekleştirmek için ödenen ücrettir. Gas ücr
 
 İşlemi gönderen taraf, işlemi yaparken bir gas limiti belirler. Gas limiti, bir işlem için harcanabilecek maksimum gas miktarını belirtir. İşlem, gas limitini aşacak bir miktarda gas kullanırsa, işlem başarısız olur ve gas ücreti kaybedilir. Gas limiti, işlemi gerçekleştiren tarafın işlemi ne kadar karmaşık veya maliyetli hale getirebileceğini kontrol etmek için kullanılır.
 
-<img width="384" alt="Gas and Gas Fee-10" src="https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/7d054653-06e8-44b4-8f48-6f33e10451ab">
+<img src="https://github.com/umaysafak/Blockchain-Temelleri/assets/83416728/7d054653-06e8-44b4-8f48-6f33e10451ab">
 
 Gas ücreti, işlemde kullanılan gas miktarı ve gas fiyatı (gas price) ile çarpılarak hesaplanır. Gas fiyatı, gas biriminin birim fiyatıdır ve işlemi gerçekleştiren tarafın belirlediği bir değerdir. Gas ücreti = gas miktarı * gas fiyatı şeklinde hesaplanır.
 
