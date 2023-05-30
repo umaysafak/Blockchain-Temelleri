@@ -17,4 +17,5 @@ Madencilik işlemi, Proof of Work (PoW) konsensus algoritmasıyla çalışan bir
 -Bloğun Yayınlanması: Madenciler, bloğu ağa yayınlar ve diğer düğümlere doğrulama ve eklemeleri için sunarlar. Diğer düğümler, bloğu doğrular ve blokzincire eklerler.
 
 -Ödül Alma: Madenci, yeni bir blok oluşturduğunda, önceden belirlenmiş bir ödül alır. Bu ödül genellikle kripto para birimi olarak verilir ve madencinin emek ve enerji harcamasını teşvik etmek amacıyla kullanılır. Ayrıca, işlem ücretleri de madencinin gelirini oluşturabilir.
+
 Madencilik işlemi, blokzincir ağının güvenliğini sağlamak ve işlemlerin doğruluğunu garanti etmek için önemlidir. Madenciler, blokları oluşturarak işlemlerin onaylanmasını ve blokzincire eklenmesini sağlarlar. Bu süreç, blokzincir ağındaki tüm düğümler arasında konsensüs sağlar ve ağın güvenli ve güvenilir bir şekilde çalışmasını sağlar.
