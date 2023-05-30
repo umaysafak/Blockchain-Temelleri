@@ -15,6 +15,7 @@ Dijital imza, bir belgenin veya verinin bütünlüğünü, doğruluğunu ve kayn
 -Genel Anahtar (Public Key): Dijital imzanın doğrulanması için kullanılan genel bir anahtardır. Bu anahtar, dijital imzanın sahibi tarafından yayınlanır ve başkaları tarafından erişilebilir.
 
 ### Dijital imza, aşağıdaki işlemlerden oluşur:
+
 -Dijital İmza Oluşturma: Belgenin veya verinin sahibi, özel anahtarını kullanarak bir kriptografik işlem gerçekleştirir ve veriye bir dijital imza ekler. Bu işlem, dijital imzanın oluşturulmasını sağlar ve belgeye veya veriye eklenen dijital imza, belgenin bütünlüğünü ve doğruluğunu korur.
 
 -Dijital İmza Doğrulama: Dijital imza doğrulaması, belgenin veya verinin alıcısı veya diğer ilgili taraflar tarafından gerçekleştirilir. İlgili taraflar, belgeye veya veriye eklenen dijital imzayı, ilgili kişinin genel anahtarıyla doğrularlar. Bu işlem, belgenin veya verinin kaynağını doğrular ve bütünlüğünü sağlar.
